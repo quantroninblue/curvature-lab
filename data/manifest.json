@@ -1,0 +1,26 @@
+{
+  "DTB3": {
+    "parquet": "DTB3.parquet",
+    "registered_at": 1766787077.0609431
+  },
+  "M2SL": {
+    "parquet": "M2SL.parquet",
+    "registered_at": 1766787259.0342202
+  },
+  "WALCL": {
+    "parquet": "WALCL.parquet",
+    "registered_at": 1766787259.5159383
+  },
+  "SP500": {
+    "parquet": "SP500.parquet",
+    "registered_at": 1766788124.3964062
+  },
+  "VIXCLS": {
+    "parquet": "VIXCLS.parquet",
+    "registered_at": 1766789290.850911
+  },
+  "DGS10": {
+    "parquet": "DGS10.parquet",
+    "registered_at": 1766789292.0325258
+  }
+}

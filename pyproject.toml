@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=65"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gravity-engine"
+version = "0.1.0"
+description = "Gravity Convex Engine"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+packages = ["engine"]
